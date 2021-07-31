@@ -1,3 +1,7 @@
+#VBA Challenge
+
+##Description
+
 In this VBA Challenge, we analyze 751,000 rows of historical price and volume stock data.
 
 We return the % changes from the opening and closing prices for each stock and their total volume for the time frame.
