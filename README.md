@@ -1,6 +1,6 @@
-#VBA Challenge
+#VBA Challenge#
 
-##Description
+##Description##
 
 In this VBA Challenge, we analyze 751,000 rows of historical price and volume stock data.
 
